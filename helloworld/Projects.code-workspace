@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"*.tcc": "c",
+			"string.h": "c",
+			"ctype.h": "c",
+			"sstream": "c",
+			"pe12-2a.h": "c",
+			"algorithm": "c",
+			"array": "c",
+			"string": "c",
+			"unordered_map": "c",
+			"memory": "c",
+			"fstream": "c",
+			"functional": "c",
+			"istream": "c",
+			"ostream": "c",
+			"vector": "c",
+			"streambuf": "c",
+			"tuple": "c",
+			"type_traits": "c",
+			"macro.h": "c",
+			"time.h": "c",
+			"stdarg.h": "c",
+			"bst.h": "c",
+			"list.h": "c"
+		}
+	}
+}
